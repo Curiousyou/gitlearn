@@ -1,7 +1,7 @@
 this is an addon file
-the file is tracked by git
-this is the third line
-this is the fourth line
+the file is tracked by git add
+this is the third
+add a line
 this is the fifth line
 this is the sixth line
 seventh line
