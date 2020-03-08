@@ -1,3 +1,4 @@
 this is an addon file
 the file is tracked by git
 this is the third line
+this is the fourth line
