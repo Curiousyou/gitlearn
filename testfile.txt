@@ -1,3 +1,0 @@
-addon
-addon1
-addon2
